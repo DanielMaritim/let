@@ -2,7 +2,7 @@
 
 a simple repo about the let keyword in JS and its significance 
 
-The let keyword was introduced in ES6
+The let keyword was finalized and officially introduced for widespread use with the release of ES6
 
 The let keyword gives you the privilege to declare variables limited to the block
 
