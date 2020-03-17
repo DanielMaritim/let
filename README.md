@@ -9,6 +9,7 @@ The let keyword gives you the privilege to declare variables limited to the bloc
 The main importance of the let keyword allows you to declare variables that are limited to a scope of a block statement, or expression on which it is used
 
 var and let are both used for variable declaration in javascript but the difference between them is that var is function scoped and let is block scoped.
+the let keyword does not create properties of the window object when declared globally
 
 Variables declared with the let keyword can have Block Scope.
 
